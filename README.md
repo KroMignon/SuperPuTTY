@@ -10,6 +10,7 @@ SuperPutty is written in C# and runs on any Windows platform supporting the .NET
 
 Features
 ==========
+<<<<<<< HEAD
 - Docking user interface allows personalized workspace and managing multiple PuTTY sessions easy
 - Export/Import session configuration
 - Upload files securely using the scp or sftp protocols
